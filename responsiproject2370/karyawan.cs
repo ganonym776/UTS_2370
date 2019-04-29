@@ -17,15 +17,13 @@ namespace responsiproject2370
         {
 
 
-            if (GajiBulanan < 0)
+            if (gajibulanan < 0)
             {
                 gajibulanan = 0;
+            }
                 Nik = nik;
                 Nama = nama;
-                GajiBulanan = gajibulanan;
-
-            }
-            
+                GajiBulanan = gajibulanan;          
 
         }
 
